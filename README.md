@@ -1,6 +1,8 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Jose Paulino and my nickname is "Jump"!
-<a href="https://tenor.com/view/working-from-home-computer-homework-gif-13271998"></a>
+
+![working-from](https://github.com/jspaulino/jspaulino/assets/5365775/c83cdc63-4937-43b7-b1cd-af6c03971bc6)
+
 
 - 🔭 I am currently working on
 - 🌱 I am currently learning Python and C#
