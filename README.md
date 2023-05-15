@@ -8,7 +8,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jspaulino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-  ![Snake animation](https://github.com/seu-usuário-aqui/jspaulino/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jspaulino/jspaulino/blob/output/github-contribution-grid-snake.svg)
 
 - 🔭 I am currently working on
 - 🌱 I am currently learning Python and C#
