@@ -1,7 +1,7 @@
+![working-from](https://github.com/jspaulino/jspaulino/assets/5365775/c83cdc63-4937-43b7-b1cd-af6c03971bc6)
+
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Jose Paulino and my nickname is "Jump"!
-
-![working-from](https://github.com/jspaulino/jspaulino/assets/5365775/c83cdc63-4937-43b7-b1cd-af6c03971bc6)
 
 
 - 🔭 I am currently working on
