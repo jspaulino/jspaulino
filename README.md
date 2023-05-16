@@ -3,12 +3,12 @@
 ### 👋 Hello! Welcome to my Github profile.
 ### My name is Jose Paulino and my nickname is "Jump"!
 
-🇧🇷 I'm a Brazilian developer.
-📚 I love to learn new things.
-🖥️ I'm trying to contribute to open source when I can.
-🛠️ I currently work at Devgrid 🇬🇧. I'm learning Python and C#. 
-😍 In 2023 I fell in love with modern web backend frameworks. 
-🤖 I'm also currently working on some in-house legacy systems.
+- 🇧🇷 I'm a Brazilian developer.
+- 📚 I love to learn new things.
+- 🖥️ I'm trying to contribute to open source when I can.
+- 🛠️ I currently work at Devgrid 🇬🇧. I'm learning Python and C#. 
+- 😍 In 2023 I fell in love with modern web backend frameworks. 
+- 🤖 I'm also currently working on some in-house legacy systems.
 
 <div>
 <a href="https://github.com/jspaulino">
