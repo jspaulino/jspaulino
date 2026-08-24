@@ -155,17 +155,7 @@ I'm continuously building projects to apply new concepts and expand my skills as
 
 # 📊 GitHub Stats
 
-<div align="center">
-
-<a href="https://github.com/jspaulino">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jspaulino&layout=compact&langs_count=8&theme=dracula"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jspaulino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-</a>
-
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jspaulino&langs_count=4&theme=ocean_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=jspaulino&langs_count=4&theme=ocean_dark)
 
 ---
 
